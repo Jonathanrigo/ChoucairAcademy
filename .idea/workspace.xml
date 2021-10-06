@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bedd129-13fe-424a-99b1-6487d587b2cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1z8dYDypdatEFvEuWJERbS7kEnl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../co.com.choucair.canonFinaciero" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="co.com.choucair.certification.academy.userinterface" />
+      <recent name="co.com.choucair.certification.academy.tasks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jriosg\IdeaProjects\co.com.choucair.certification.academy\src\test\resources\driver" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.choucair.certification.academy.runner.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bedd129-13fe-424a-99b1-6487d587b2cb" name="Default Changelist" comment="" />
+      <created>1633533693305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633533693305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1633549662634">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1633549662634" />
+    <state x="410" y="139" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1633536083514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="139" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1633536083514" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1633547077351">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1633547077351" />
+    <state width="1323" height="380" key="GridCell.Tab.0.bottom" timestamp="1633550360444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="380" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1633550360444" />
+    <state width="1323" height="380" key="GridCell.Tab.0.center" timestamp="1633550360444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="380" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1633550360444" />
+    <state width="1323" height="380" key="GridCell.Tab.0.left" timestamp="1633550360444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="380" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1633550360444" />
+    <state width="1323" height="380" key="GridCell.Tab.0.right" timestamp="1633550360444">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="380" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1633550360444" />
+  </component>
+</project>
