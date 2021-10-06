@@ -23,5 +23,3 @@ y
 Isrc/main/java/co/com/choucair/certification/academy/questions/Answer.java,c\1\c14b682ba76f6588ca9961ddcfa4b91cc2c445d9
 z
 Jsrc/test/java/co/com/choucair/certification/academy/runner/RunnerTags.java,c\4\c4beba0cd803bb1597285877b9e2d64cd1d605e7
-—
-gsrc/test/java/co/com/choucair/certification/academy/stepdefinitions/ChoucairAcademyStepDefinitions.java,3\7\378265e762cc91405cc330b522e6ff4919ef1ea8
