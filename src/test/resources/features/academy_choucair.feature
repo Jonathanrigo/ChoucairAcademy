@@ -18,7 +18,7 @@
 
     Examples:
     | strUser | strPassword   | strCourse               |
-    | jriosg  | Choucair2021* | Metodología Bancolombia |
+    | tuUserg | tuUser        | Metodología Bancolombia |
     | tuUser  | tuPassword    | Bancolombia Metodologia |
 
     @CasoAlterno
@@ -33,5 +33,5 @@
 
       Examples:
         | strUser | strPassword   | strCourse                                       |
-        | xxxxxx  | xydsgdfgfhgfh | Acceso inválido. Por favor, inténtelo otra vez. |
+        | xxxxxx  | yyyyyyyyyyyyy | Acceso inválido. Por favor, inténtelo otra vez. |
 
